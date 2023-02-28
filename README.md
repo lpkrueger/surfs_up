@@ -32,7 +32,6 @@ Sample code used for Deliverable #1: Write a query that filters the Measurement 
 ## Results
 - June Temperature Stats
     ![june_temps_stats](/june_temps_stats.png)
-    [Number of Retiring Employees by Title](/Data/retiring_titles.csv)
 
    
 - December Temperature Stats
